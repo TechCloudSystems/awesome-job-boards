@@ -573,6 +573,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
 - [UK Visa Jobs](https://www.ukvisajobs.com/)
+- [Jobs For Developers](https://www.jobsfordevelopers.co.uk/)
 
 ### Germany
 
